@@ -8,16 +8,16 @@ Le but de ce projet est d'identifier le locuteur de phrases de discours de prés
 
 https://www.kaggle.com/datasets/daroheng/french-political-speeches/code
 
-1 ligne = 1 phrases
+1 ligne = 1 phrases<br>
 Allocutions de J. Chirac bruitées par des segments d'allocutions de F. Mitterrand
 
 ## Restrictions
 
-Utilisation de classifiers linéaires (pas de Réseaux de neurones).
-Utilisation de preprocessing (stop words, stemming, etc...)
-Utilisation de postprocessing (Lissage)
+Utilisation de classifiers linéaires (pas de Réseaux de neurones).<br>
+Utilisation de preprocessing (stop words, stemming, etc...).<br>
+Utilisation de postprocessing (Lissage).
 
 ## Score final
 
-Accuracy 95%
+Accuracy 95% <br>
 F1 score 81%
